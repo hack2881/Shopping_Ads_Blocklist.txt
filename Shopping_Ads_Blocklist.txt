@@ -12,9 +12,9 @@
 
 ||aliexpress.com^$important
 
-||amazon.com^$important
-||amazon.nl^$important
-||amazon.co.uk^$important
+|amazon.com^$important
+|amazon.nl^$important
+|amazon.co.uk^$important
 
 ||ebay.com^$important
 
