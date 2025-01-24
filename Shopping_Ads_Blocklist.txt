@@ -1,62 +1,62 @@
 # Shopping_Ads_Blocklist.txt
-||bol.com^$important
-||bol.de^$important
+|bol.com^$important
+|bol.de^$important
 
-||shein.com^$important
-||app.shein.com^$important
-||nl.shein.com^$important
+|shein.com^$important
+|app.shein.com^$important
+|nl.shein.com^$important
 
-||temu.nl^$important
-||temu.com^$important
-||m-temu-com.trafficmanager.net^$important
+|temu.nl^$important
+|temu.com^$important
+|m-temu-com.trafficmanager.net^$important
 
-||aliexpress.com^$important
+|aliexpress.com^$important
 
 |amazon.com^$important
 |amazon.nl^$important
 |amazon.co.uk^$important
 
-||ebay.com^$important
+|ebay.com^$important
 
-||zalando.nl^$important
+|zalando.nl^$important
 
-||wish.com^$important
+|wish.com^$important
 
-||etsy.com^$important
+|etsy.com^$important
 
-||ikea.com^$important
-||ikea.nl^$important
+|ikea.com^$important
+|ikea.nl^$important
 
-||coolblue.nl^$important
+|coolblue.nl^$important
 
-||mediamarkt.nl^$important
+|mediamarkt.nl^$important
 
-||vinted.nl^$important
+|vinted.nl^$important
 
-||wehkamp.nl^$important
+|wehkamp.nl^$important
 
-||marktplaats.nl^$important
+|marktplaats.nl^$important
 
-||gearbest.com^$important
+|gearbest.com^$important
 
-||banggood.com^$important
+|banggood.com^$important
 
-||dhgate.com^$important
+|dhgate.com^$important
 
-||bestbuy.com^$important
+|bestbuy.com^$important
 
-||shopify.com^$important
+|shopify.com^$important
 
-||sephora.com^$important
+|sephora.com^$important
 
-||walmart.com^$important
+|walmart.com^$important
 
-||target.com^$important
+|target.com^$important
 
-||asos.com^$important
+|asos.com^$important
 
-||boohoo.com^$important
+|boohoo.com^$important
 
-||zalando.de^$important
+|zalando.de^$important
 
-||aliexpress.ru^$important
+|aliexpress.ru^$important
