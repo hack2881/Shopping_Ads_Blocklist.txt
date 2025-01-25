@@ -17,6 +17,7 @@
 |kwcdn.com^$important
 |aimg.kwcdn.com^$important
 |img.kwcdn.com^$important
+|static-1.kwcdn.com^$important
 |static-2.kwcdn.com^$important
 |m-temu-com.trafficmanager.net^$important
 
