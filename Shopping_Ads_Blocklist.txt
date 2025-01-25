@@ -5,6 +5,12 @@
 
 |shein.com^$important
 |app.shein.com^$important
+|img.ltwebstatic.com^$important
+|sc.ltwebstatic.com^$important
+|shein.ltwebstatic.com^$important
+|srmdata-eur.com^$important
+|shein.ltwebstatic.com^$important
+|sheinsz.ltwebstatic.com^$important
 
 |temu.nl^$important
 |temu.com^$important
