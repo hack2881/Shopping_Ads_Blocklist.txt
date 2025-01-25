@@ -17,7 +17,9 @@
 ||eu.pftk.temu.com^$important
 |kwcdn.com^$important
 |aimg.kwcdn.com^$important
+|aimg-2.kwcdn.com^$important
 |img.kwcdn.com^$important
+|img-1.kwcdn.com^$important
 |static-1.kwcdn.com^$important
 |static-2.kwcdn.com^$important
 |m-temu-com.trafficmanager.net^$important
