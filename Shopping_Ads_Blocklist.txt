@@ -36,6 +36,10 @@
 |wehkamp.nl^$important
 
 |marktplaats.nl^$important
+|brandmetrics.com^$important
+|criteo.net^$important
+|sc-static.net^$important
+|scorecardresearch.com^$important
 
 |gearbest.com^$important
 
