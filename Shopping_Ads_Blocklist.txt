@@ -4,7 +4,6 @@
 
 |shein.com^$important
 |app.shein.com^$important
-|nl.shein.com^$important
 
 |temu.nl^$important
 |temu.com^$important
