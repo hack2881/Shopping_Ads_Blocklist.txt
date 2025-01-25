@@ -14,6 +14,7 @@
 
 |temu.nl^$important
 |temu.com^$important
+||eu.pftk.temu.com^$important
 |kwcdn.com^$important
 |aimg.kwcdn.com^$important
 |img.kwcdn.com^$important
