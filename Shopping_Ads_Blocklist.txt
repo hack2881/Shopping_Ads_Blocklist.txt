@@ -22,7 +22,7 @@
 |img-1.kwcdn.com^$important
 |static-1.kwcdn.com^$important
 |static-2.kwcdn.com^$important
-|m-temu-com.trafficmanager.net^$important
+||m-temu-com.trafficmanager.net^$important
 
 |aliexpress.com^$important
 
