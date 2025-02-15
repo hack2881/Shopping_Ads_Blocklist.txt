@@ -1,7 +1,7 @@
 # Shopping_Ads_Blocklist.txt
 |bol*.com^$important
 |bol*.de^$important
-|s-bol.com^$important
+||s-bol.com^$important
 
 |shein.com^$important
 |app.shein.com^$important
