@@ -78,3 +78,25 @@
 |zalando.de^$important
 
 |aliexpress.ru^$important
+
+||aliexpress.com^$third-party  
+||temu.com^$third-party  
+||m-temu-com.trafficmanager.net^  
+||amazon.com^$third-party  
+||amazon-adsystem.com^  
+||bol.com^$third-party  
+||wish.com^$third-party  
+||etsy.com^$third-party  
+||ebay.com^$third-party  
+||facebook.com/marketplace^  
+||zalando.com^$third-party  
+||shein.com^$third-party  
+||app.shein.com^$third-party  
+||vinted.nl^$third-party  
+||vinted.com^$third-party  
+||marktplaats.nl^$third-party  
+||coolblue.nl^$third-party  
+||mediamarkt.nl^$third-party  
+||lidlplus.com^$third-party  
+||action.com^$third-party  
+||hema.nl^$third-party
