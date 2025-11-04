@@ -1,5 +1,4 @@
 # Shopping_Ads_Blocklist.txt
-|bol.com^$third-party
 |bol.de^$third-party
 ||ads-bol.com^$important
 ||s-bol.com^$important
