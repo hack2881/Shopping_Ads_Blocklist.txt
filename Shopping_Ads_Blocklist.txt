@@ -1,6 +1,4 @@
 # Shopping_Ads_Blocklist.txt
-||partner-bol.com^
-||ads.bol.com^
 
 |shein.com^$important
 |app.shein.com^$important
