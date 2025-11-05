@@ -423,3 +423,163 @@
 ||walmart-ads.com^
 ||walmart-promotions.com^
 ||walmart-marketing.com^
+
+! ===== Target Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Target.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.target.com^
+||ad.target.com^
+||analytics.target.com^
+||track.target.com^
+||tracking.target.com^
+||metrics.target.com^
+||promo.target.com^
+||promotion.target.com^
+||marketing.target.com^
+||event.target.com^
+||report.target.com^
+||click.target.com^
+||log.target.com^
+||smetrics.target.com^
+||target-ads.com^
+||target-promotions.com^
+||target-marketing.com^
+
+! ===== Facebook Marketplace Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing binnen Facebook Marketplace
+! Laat berichten, producten, afbeeldingen en verkoopfuncties werken
+! Laatste update: 2025-11-05
+
+||ads.facebook.com^
+||ad.facebook.com^
+||adsmanager.facebook.com^
+||analytics.facebook.com^
+||connect.facebook.net/en_US/fbevents.js
+||tr.facebook.com^
+||pixel.facebook.com^
+||log.facebook.com^
+||metrics.facebook.com^
+||event.facebook.com^
+||reporting.facebook.com^
+||marketing-api.facebook.com^
+||creativeupload.facebook.com^
+||tracking.facebook.com^
+||click.facebook.com^
+||edge-mqtt.facebook.com^$important,app=Facebook
+
+! ===== Best Buy Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van BestBuy.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.bestbuy.com^
+||ad.bestbuy.com^
+||analytics.bestbuy.com^
+||track.bestbuy.com^
+||tracking.bestbuy.com^
+||metrics.bestbuy.com^
+||promo.bestbuy.com^
+||promotion.bestbuy.com^
+||marketing.bestbuy.com^
+||event.bestbuy.com^
+||report.bestbuy.com^
+||click.bestbuy.com^
+||log.bestbuy.com^
+||smetrics.bestbuy.com^
+||bestbuy-ads.com^
+||bestbuy-promotions.com^
+||bestbuy-marketing.com^
+
+! ===== JYSK Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van JYSK.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.jysk.nl^
+||ad.jysk.nl^
+||analytics.jysk.nl^
+||track.jysk.nl^
+||tracking.jysk.nl^
+||metrics.jysk.nl^
+||promo.jysk.nl^
+||promotion.jysk.nl^
+||marketing.jysk.nl^
+||event.jysk.nl^
+||report.jysk.nl^
+||click.jysk.nl^
+||log.jysk.nl^
+||smetrics.jysk.nl^
+||jysk-ads.com^
+||jysk-promotions.com^
+||jysk-marketing.com^
+
+! ===== Kwantum Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Kwantum.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.kwantum.nl^
+||ad.kwantum.nl^
+||analytics.kwantum.nl^
+||track.kwantum.nl^
+||tracking.kwantum.nl^
+||metrics.kwantum.nl^
+||promo.kwantum.nl^
+||promotion.kwantum.nl^
+||marketing.kwantum.nl^
+||event.kwantum.nl^
+||report.kwantum.nl^
+||click.kwantum.nl^
+||log.kwantum.nl^
+||smetrics.kwantum.nl^
+||kwantum-ads.com^
+||kwantum-promotions.com^
+||kwantum-marketing.com^
+
+! ===== Leen Bakker Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van LeenBakker.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.leenbakker.nl^
+||ad.leenbakker.nl^
+||analytics.leenbakker.nl^
+||track.leenbakker.nl^
+||tracking.leenbakker.nl^
+||metrics.leenbakker.nl^
+||promo.leenbakker.nl^
+||promotion.leenbakker.nl^
+||marketing.leenbakker.nl^
+||event.leenbakker.nl^
+||report.leenbakker.nl^
+||click.leenbakker.nl^
+||log.leenbakker.nl^
+||smetrics.leenbakker.nl^
+||leenbakker-ads.com^
+||leenbakker-promotions.com^
+||leenbakker-marketing.com^
+
+! ===== VidaXL Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van VidaXL.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.vidaxl.nl^
+||ad.vidaxl.nl^
+||analytics.vidaxl.nl^
+||track.vidaxl.nl^
+||tracking.vidaxl.nl^
+||metrics.vidaxl.nl^
+||promo.vidaxl.nl^
+||promotion.vidaxl.nl^
+||marketing.vidaxl.nl^
+||event.vidaxl.nl^
+||report.vidaxl.nl^
+||click.vidaxl.nl^
+||log.vidaxl.nl^
+||smetrics.vidaxl.nl^
+||vidaxl-ads.com^
+||vidaxl-promotions.com^
+||vidaxl-marketing.com^
