@@ -359,3 +359,35 @@
 @@||img.marktplaats.nl^
 @@||static.marktplaats.nl^
 @@||content.marktplaats.nl^
+
+! ===== Action Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Action.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.action.com^
+||ad.action.com^
+||analytics.action.com^
+||track.action.com^
+||tracking.action.com^
+||log.action.com^
+||metrics.action.com^
+||promo.action.com^
+||promotion.action.com^
+||marketing.action.com^
+||event.action.com^
+||report.action.com^
+||click.action.com^
+||smetrics.action.com^
+||action-ads.com^
+||action-promotions.com^
+||action-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.action.com^
+@@||m.action.com^
+@@||api.action.com^
+@@||media.action.com^
+@@||img.action.com^
+@@||static.action.com^
+@@||content.action.com^
