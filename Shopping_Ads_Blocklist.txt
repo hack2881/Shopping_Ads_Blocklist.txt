@@ -285,3 +285,49 @@
 ||action-ads.com^
 ||action-promotions.com^
 ||action-marketing.com^
+
+! ===== HEMA Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van HEMA.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.hema.nl^
+||ad.hema.nl^
+||analytics.hema.nl^
+||track.hema.nl^
+||tracking.hema.nl^
+||log.hema.nl^
+||metrics.hema.nl^
+||promo.hema.nl^
+||promotion.hema.nl^
+||marketing.hema.nl^
+||event.hema.nl^
+||report.hema.nl^
+||click.hema.nl^
+||smetrics.hema.nl^
+||hema-ads.com^
+||hema-promotions.com^
+||hema-marketing.com^
+
+! ===== Lidl Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Lidl.nl
+! Laat productafbeeldingen, folders, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.lidl.nl^
+||ad.lidl.nl^
+||analytics.lidl.nl^
+||track.lidl.nl^
+||tracking.lidl.nl^
+||metrics.lidl.nl^
+||promo.lidl.nl^
+||promotion.lidl.nl^
+||marketing.lidl.nl^
+||event.lidl.nl^
+||report.lidl.nl^
+||click.lidl.nl^
+||log.lidl.nl^
+||smetrics.lidl.nl^
+||lidl-ads.com^
+||lidl-promotions.com^
+||lidl-marketing.com^
