@@ -1,98 +1,169 @@
-# Shopping_Ads_Blocklist.txt
+! ===== Amazon Ads Blocklist (veilig voor gebruik) =====
+! Laat productafbeeldingen toe, blokkeert advertenties en tracking
+! Laatste update: 2025-11-05
 
-|shein.com^$important
-|app.shein.com^$important
-|img.ltwebstatic.com^$important
-|sc.ltwebstatic.com^$important
-|shein.ltwebstatic.com^$important
-|srmdata-eur.com^$important
-|shein.ltwebstatic.com^$important
-|sheinsz.ltwebstatic.com^$important
-
-|temu.nl^$important
-|temu.com^$important
-||eu.pftk.temu.com^$important
-|kwcdn.com^$important
-|aimg.kwcdn.com^$important
-|aimg-2.kwcdn.com^$important
-|img.kwcdn.com^$important
-|img-1.kwcdn.com^$important
-|static-1.kwcdn.com^$important
-|static-2.kwcdn.com^$important
-||m-temu-com.trafficmanager.net^$important
-
-|aliexpress.com^$important
-
-|amazon.com^$important
-|amazon.nl^$important
-|amazon.co.uk^$important
-
-|ebay.com^$important
-
-|zalando.nl^$important
-
-|wish.com^$important
-
-|etsy.com^$important
-
-|ikea.com^$important
-|ikea.nl^$important
-
-|coolblue.nl^$important
-
-|mediamarkt.nl^$important
-
-|vinted.nl^$important
-
-|wehkamp.nl^$important
-
-|marktplaats.nl^$important
-|brandmetrics.com^$important
-|criteo.net^$important
-|sc-static.net^$important
-|scorecardresearch.com^$important
-
-|gearbest.com^$important
-
-|banggood.com^$important
-
-|dhgate.com^$important
-
-|bestbuy.com^$important
-
-|shopify.com^$important
-
-|sephora.com^$important
-
-|walmart.com^$important
-
-|target.com^$important
-
-|asos.com^$important
-
-|boohoo.com^$important
-
-|zalando.de^$important
-
-|aliexpress.ru^$important
-
-||aliexpress.com^$third-party  
-||temu.com^$third-party  
-||m-temu-com.trafficmanager.net^  
-||amazon.com^$third-party  
 ||amazon-adsystem.com^
-||wish.com^$third-party  
-||etsy.com^$third-party  
-||ebay.com^$third-party  
-||facebook.com/marketplace^$third-party
-||zalando.com^$third-party
-||shein.com^$third-party
-||app.shein.com^$third-party
-||vinted.nl^$third-party
-||vinted.com^$third-party
-||marktplaats.nl^$third-party
-||coolblue.nl^$third-party
-||mediamarkt.nl^$third-party
-||lidlplus.com^$third-party
-||action.com^$third-party
-||hema.nl^$third-party
+||aax.amazon-adsystem.com^
+||fls-na.amazon.com^
+||fls-eu.amazon.com^
+||assoc-amazon.com^
+||advertising.amazon.com^
+||ads.amazon.com^
+||track.amazon.com^
+||ad.doubleclick.net^$domain=amazon.*
+||amazon.demdex.net^
+||s.amazon-adsystem.com^
+||mads.amazon.com^
+
+! 🎯 Laat media- en productcontent toe:
+@@||m.media-amazon.com^
+@@||images-na.ssl-images-amazon.com^
+@@||images-eu.ssl-images-amazon.com^
+
+! ===== Temu Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Temu
+! Laat normale winkel- en productfuncties intact
+! Laatste update: 2025-11-05
+
+||a.temu.com^
+||ads.temu.com^
+||analytics.temu.com^
+||track.temu.com^
+||log.temu.com^
+||adservice.temu.com^
+||promotion.temu.com^
+||click.temu.com^
+||event.temu.com^
+||report.temu.com^
+||smetrics.temu.com^
+||temu-ads.com^
+||temu-promotions.com^
+||m-temu-com.trafficmanager.net^
+||temu.tracking-protection.com^
+||marketing.temu.com^
+||adsdk.temu.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.temu.com^
+@@||app.temu.com^
+@@||media.temu.com^
+@@||img.temu.com^
+@@||static.temu.com^
+
+! ===== Shein Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Shein
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.shein.com^
+||ad.shein.com^
+||analytics.shein.com^
+||track.shein.com^
+||tracking.shein.com^
+||log.shein.com^
+||monitor.shein.com^
+||click.shein.com^
+||promotion.shein.com^
+||push.shein.com^
+||push-api.shein.com^
+||event.shein.com^
+||report.shein.com^
+||stats.shein.com^
+||shein-analytics.com^
+||shein-tracking.com^
+||adservice.shein.com^
+||a.shein.com^
+||mkt.shein.com^
+||shein-marketing.com^
+||shein-promotions.com^
+||shein-ads.com^
+||app-measurement.com^$domain=shein.com
+||firebaseinstallations.googleapis.com^$domain=shein.com
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.shein.com^
+@@||app.shein.com^
+@@||img.shein.com^
+@@||cdn.shein.com^
+@@||api.shein.com^
+@@||m.shein.com^
+@@||nl.shein.com^
+@@||us.shein.com^
+
+! ===== AliExpress Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van AliExpress
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.aliexpress.com^
+||ad.aliexpress.com^
+||adservice.aliexpress.com^
+||log.aliexpress.com^
+||track.aliexpress.com^
+||click.aliexpress.com^
+||promotion.aliexpress.com^
+||marketing.aliexpress.com^
+||analytics.aliexpress.com^
+||report.aliexpress.com^
+||event.aliexpress.com^
+||trace.aliexpress.com^
+||performance.aliexpress.com^
+||stats.aliexpress.com^
+||smetrics.aliexpress.com^
+||ae-ad.aliexpress.com^
+||a.aliexpress.com^
+||gw.alicdn.com^$third-party,domain=aliexpress.com
+||ad.alicdn.com^
+||adnxs.com^$domain=aliexpress.com
+||adsystem.aliexpress.com^
+||ae-ads.com^
+||aliads.com^
+||aliexpress-tracking.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.aliexpress.com^
+@@||m.aliexpress.com^
+@@||img.alicdn.com^
+@@||ae01.alicdn.com^
+@@||api.aliexpress.com^
+@@||acs.aliexpress.com^
+@@||aliexpress.ru^
+@@||shoppingcart.aliexpress.com^
+@@||user.aliexpress.com^
+
+! ===== Bol.com Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Bol.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.bol.com^
+||ad.bol.com^
+||adservice.bol.com^
+||tracking.bol.com^
+||track.bol.com^
+||analytics.bol.com^
+||metrics.bol.com^
+||log.bol.com^
+||pixel.bol.com^
+||promo.bol.com^
+||promotion.bol.com^
+||marketing.bol.com^
+||tag.bol.com^
+||collect.bol.com^
+||boltracking.com^
+||bol-ads.com^
+||bolpromotions.com^
+||bol-marketing.com^
+||bolmedia.nl^
+||adnxs.com^$domain=bol.com
+||doubleclick.net^$domain=bol.com
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.bol.com^
+@@||m.bol.com^
+@@||api.bol.com^
+@@||static.bol.com^
+@@||images.bol.com^
+@@||media.bol.com^
+@@||shop.bol.com^
+@@||cdn.bol.com^
