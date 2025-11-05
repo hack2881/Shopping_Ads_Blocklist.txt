@@ -167,3 +167,99 @@
 @@||media.bol.com^
 @@||shop.bol.com^
 @@||cdn.bol.com^
+
+! ===== IKEA Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van IKEA
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.ikea.com^
+||ad.ikea.com^
+||analytics.ikea.com^
+||track.ikea.com^
+||tracking.ikea.com^
+||log.ikea.com^
+||metrics.ikea.com^
+||promo.ikea.com^
+||promotion.ikea.com^
+||marketing.ikea.com^
+||event.ikea.com^
+||report.ikea.com^
+||click.ikea.com^
+||smetrics.ikea.com^
+||ikea-ads.com^
+||ikea-promotions.com^
+||ikea-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.ikea.com^
+@@||m.ikea.com^
+@@||api.ikea.com^
+@@||media.ikea.com^
+@@||img.ikea.com^
+@@||static.ikea.com^
+@@||content.ikea.com^
+
+! ===== Mediamarkt Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Mediamarkt.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.mediamarkt.nl^
+||ad.mediamarkt.nl^
+||analytics.mediamarkt.nl^
+||track.mediamarkt.nl^
+||tracking.mediamarkt.nl^
+||log.mediamarkt.nl^
+||metrics.mediamarkt.nl^
+||promo.mediamarkt.nl^
+||promotion.mediamarkt.nl^
+||marketing.mediamarkt.nl^
+||event.mediamarkt.nl^
+||report.mediamarkt.nl^
+||click.mediamarkt.nl^
+||smetrics.mediamarkt.nl^
+||mediamarkt-ads.com^
+||mediamarkt-promotions.com^
+||mediamarkt-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.mediamarkt.nl^
+@@||m.mediamarkt.nl^
+@@||api.mediamarkt.nl^
+@@||media.mediamarkt.nl^
+@@||img.mediamarkt.nl^
+@@||static.mediamarkt.nl^
+@@||content.mediamarkt.nl^
+
+! ===== Coolblue Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Coolblue.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.coolblue.nl^
+||ad.coolblue.nl^
+||analytics.coolblue.nl^
+||track.coolblue.nl^
+||tracking.coolblue.nl^
+||log.coolblue.nl^
+||metrics.coolblue.nl^
+||promo.coolblue.nl^
+||promotion.coolblue.nl^
+||marketing.coolblue.nl^
+||event.coolblue.nl^
+||report.coolblue.nl^
+||click.coolblue.nl^
+||smetrics.coolblue.nl^
+||coolblue-ads.com^
+||coolblue-promotions.com^
+||coolblue-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.coolblue.nl^
+@@||m.coolblue.nl^
+@@||api.coolblue.nl^
+@@||media.coolblue.nl^
+@@||img.coolblue.nl^
+@@||static.coolblue.nl^
+@@||content.coolblue.nl^
