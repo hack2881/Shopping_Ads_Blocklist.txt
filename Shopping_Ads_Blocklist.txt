@@ -263,3 +263,99 @@
 @@||img.coolblue.nl^
 @@||static.coolblue.nl^
 @@||content.coolblue.nl^
+
+! ===== Zalando Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Zalando.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.zalando.nl^
+||ad.zalando.nl^
+||analytics.zalando.nl^
+||track.zalando.nl^
+||tracking.zalando.nl^
+||log.zalando.nl^
+||metrics.zalando.nl^
+||promo.zalando.nl^
+||promotion.zalando.nl^
+||marketing.zalando.nl^
+||event.zalando.nl^
+||report.zalando.nl^
+||click.zalando.nl^
+||smetrics.zalando.nl^
+||zalando-ads.com^
+||zalando-promotions.com^
+||zalando-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.zalando.nl^
+@@||m.zalando.nl^
+@@||api.zalando.nl^
+@@||media.zalando.nl^
+@@||img.zalando.nl^
+@@||static.zalando.nl^
+@@||content.zalando.nl^
+
+! ===== Vinted Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Vinted.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.vinted.nl^
+||ad.vinted.nl^
+||analytics.vinted.nl^
+||track.vinted.nl^
+||tracking.vinted.nl^
+||log.vinted.nl^
+||metrics.vinted.nl^
+||promo.vinted.nl^
+||promotion.vinted.nl^
+||marketing.vinted.nl^
+||event.vinted.nl^
+||report.vinted.nl^
+||click.vinted.nl^
+||smetrics.vinted.nl^
+||vinted-ads.com^
+||vinted-promotions.com^
+||vinted-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.vinted.nl^
+@@||m.vinted.nl^
+@@||api.vinted.nl^
+@@||media.vinted.nl^
+@@||img.vinted.nl^
+@@||static.vinted.nl^
+@@||content.vinted.nl^
+
+! ===== Marktplaats Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Marktplaats.nl
+! Laat productafbeeldingen, zoekfuncties en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.marktplaats.nl^
+||ad.marktplaats.nl^
+||analytics.marktplaats.nl^
+||track.marktplaats.nl^
+||tracking.marktplaats.nl^
+||log.marktplaats.nl^
+||metrics.marktplaats.nl^
+||promo.marktplaats.nl^
+||promotion.marktplaats.nl^
+||marketing.marktplaats.nl^
+||event.marktplaats.nl^
+||report.marktplaats.nl^
+||click.marktplaats.nl^
+||smetrics.marktplaats.nl^
+||marktplaats-ads.com^
+||marktplaats-promotions.com^
+||marktplaats-marketing.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.marktplaats.nl^
+@@||m.marktplaats.nl^
+@@||api.marktplaats.nl^
+@@||media.marktplaats.nl^
+@@||img.marktplaats.nl^
+@@||static.marktplaats.nl^
+@@||content.marktplaats.nl^
