@@ -331,3 +331,95 @@
 ||lidl-ads.com^
 ||lidl-promotions.com^
 ||lidl-marketing.com^
+
+! ===== Wehkamp Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Wehkamp.nl
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.wehkamp.nl^
+||ad.wehkamp.nl^
+||analytics.wehkamp.nl^
+||track.wehkamp.nl^
+||tracking.wehkamp.nl^
+||metrics.wehkamp.nl^
+||promo.wehkamp.nl^
+||promotion.wehkamp.nl^
+||marketing.wehkamp.nl^
+||event.wehkamp.nl^
+||report.wehkamp.nl^
+||click.wehkamp.nl^
+||log.wehkamp.nl^
+||smetrics.wehkamp.nl^
+||wehkamp-ads.com^
+||wehkamp-promotions.com^
+||wehkamp-marketing.com^
+
+! ===== Wish Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Wish.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.wish.com^
+||ad.wish.com^
+||analytics.wish.com^
+||track.wish.com^
+||tracking.wish.com^
+||metrics.wish.com^
+||promo.wish.com^
+||promotion.wish.com^
+||marketing.wish.com^
+||event.wish.com^
+||report.wish.com^
+||click.wish.com^
+||log.wish.com^
+||smetrics.wish.com^
+||wish-ads.com^
+||wish-promotions.com^
+||wish-marketing.com^
+
+! ===== eBay Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van eBay.com
+! Laat productafbeeldingen, zoekfunctie en aankopen functioneren
+! Laatste update: 2025-11-05
+
+||ads.ebay.com^
+||ad.ebay.com^
+||analytics.ebay.com^
+||track.ebay.com^
+||tracking.ebay.com^
+||metrics.ebay.com^
+||promo.ebay.com^
+||promotion.ebay.com^
+||marketing.ebay.com^
+||event.ebay.com^
+||report.ebay.com^
+||click.ebay.com^
+||log.ebay.com^
+||smetrics.ebay.com^
+||ebay-ads.com^
+||ebay-promotions.com^
+||ebay-marketing.com^
+
+! ===== Walmart Ads Blocklist (veilig voor gebruik) =====
+! Blokkeert advertenties, tracking & marketing van Walmart.com
+! Laat productafbeeldingen, winkel en app functioneren
+! Laatste update: 2025-11-05
+
+||ads.walmart.com^
+||ad.walmart.com^
+||analytics.walmart.com^
+||track.walmart.com^
+||tracking.walmart.com^
+||metrics.walmart.com^
+||promo.walmart.com^
+||promotion.walmart.com^
+||marketing.walmart.com^
+||event.walmart.com^
+||report.walmart.com^
+||click.walmart.com^
+||log.walmart.com^
+||smetrics.walmart.com^
+||walmart-ads.com^
+||walmart-promotions.com^
+||walmart-marketing.com^
