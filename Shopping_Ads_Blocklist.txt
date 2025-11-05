@@ -15,11 +15,6 @@
 ||s.amazon-adsystem.com^
 ||mads.amazon.com^
 
-! 🎯 Laat media- en productcontent toe:
-@@||m.media-amazon.com^
-@@||images-na.ssl-images-amazon.com^
-@@||images-eu.ssl-images-amazon.com^
-
 ! ===== Temu Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Temu
 ! Laat normale winkel- en productfuncties intact
@@ -42,13 +37,6 @@
 ||temu.tracking-protection.com^
 ||marketing.temu.com^
 ||adsdk.temu.com^
-
-! 🎯 Laat winkel en productmedia toe:
-@@||www.temu.com^
-@@||app.temu.com^
-@@||media.temu.com^
-@@||img.temu.com^
-@@||static.temu.com^
 
 ! ===== Shein Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Shein
@@ -80,16 +68,6 @@
 ||app-measurement.com^$domain=shein.com
 ||firebaseinstallations.googleapis.com^$domain=shein.com
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.shein.com^
-@@||app.shein.com^
-@@||img.shein.com^
-@@||cdn.shein.com^
-@@||api.shein.com^
-@@||m.shein.com^
-@@||nl.shein.com^
-@@||us.shein.com^
-
 ! ===== AliExpress Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van AliExpress
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -120,17 +98,6 @@
 ||aliads.com^
 ||aliexpress-tracking.com^
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.aliexpress.com^
-@@||m.aliexpress.com^
-@@||img.alicdn.com^
-@@||ae01.alicdn.com^
-@@||api.aliexpress.com^
-@@||acs.aliexpress.com^
-@@||aliexpress.ru^
-@@||shoppingcart.aliexpress.com^
-@@||user.aliexpress.com^
-
 ! ===== Bol.com Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Bol.com
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -158,16 +125,6 @@
 ||adnxs.com^$domain=bol.com
 ||doubleclick.net^$domain=bol.com
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.bol.com^
-@@||m.bol.com^
-@@||api.bol.com^
-@@||static.bol.com^
-@@||images.bol.com^
-@@||media.bol.com^
-@@||shop.bol.com^
-@@||cdn.bol.com^
-
 ! ===== IKEA Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van IKEA
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -190,15 +147,6 @@
 ||ikea-ads.com^
 ||ikea-promotions.com^
 ||ikea-marketing.com^
-
-! 🎯 Laat winkel en productmedia toe:
-@@||www.ikea.com^
-@@||m.ikea.com^
-@@||api.ikea.com^
-@@||media.ikea.com^
-@@||img.ikea.com^
-@@||static.ikea.com^
-@@||content.ikea.com^
 
 ! ===== Mediamarkt Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Mediamarkt.nl
@@ -223,15 +171,6 @@
 ||mediamarkt-promotions.com^
 ||mediamarkt-marketing.com^
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.mediamarkt.nl^
-@@||m.mediamarkt.nl^
-@@||api.mediamarkt.nl^
-@@||media.mediamarkt.nl^
-@@||img.mediamarkt.nl^
-@@||static.mediamarkt.nl^
-@@||content.mediamarkt.nl^
-
 ! ===== Coolblue Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Coolblue.nl
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -254,15 +193,6 @@
 ||coolblue-ads.com^
 ||coolblue-promotions.com^
 ||coolblue-marketing.com^
-
-! 🎯 Laat winkel en productmedia toe:
-@@||www.coolblue.nl^
-@@||m.coolblue.nl^
-@@||api.coolblue.nl^
-@@||media.coolblue.nl^
-@@||img.coolblue.nl^
-@@||static.coolblue.nl^
-@@||content.coolblue.nl^
 
 ! ===== Zalando Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Zalando.nl
@@ -287,15 +217,6 @@
 ||zalando-promotions.com^
 ||zalando-marketing.com^
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.zalando.nl^
-@@||m.zalando.nl^
-@@||api.zalando.nl^
-@@||media.zalando.nl^
-@@||img.zalando.nl^
-@@||static.zalando.nl^
-@@||content.zalando.nl^
-
 ! ===== Vinted Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Vinted.nl
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -318,15 +239,6 @@
 ||vinted-ads.com^
 ||vinted-promotions.com^
 ||vinted-marketing.com^
-
-! 🎯 Laat winkel en productmedia toe:
-@@||www.vinted.nl^
-@@||m.vinted.nl^
-@@||api.vinted.nl^
-@@||media.vinted.nl^
-@@||img.vinted.nl^
-@@||static.vinted.nl^
-@@||content.vinted.nl^
 
 ! ===== Marktplaats Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Marktplaats.nl
@@ -351,15 +263,6 @@
 ||marktplaats-promotions.com^
 ||marktplaats-marketing.com^
 
-! 🎯 Laat winkel en productmedia toe:
-@@||www.marktplaats.nl^
-@@||m.marktplaats.nl^
-@@||api.marktplaats.nl^
-@@||media.marktplaats.nl^
-@@||img.marktplaats.nl^
-@@||static.marktplaats.nl^
-@@||content.marktplaats.nl^
-
 ! ===== Action Ads Blocklist (veilig voor gebruik) =====
 ! Blokkeert advertenties, tracking & marketing van Action.com
 ! Laat productafbeeldingen, winkel en app functioneren
@@ -382,12 +285,3 @@
 ||action-ads.com^
 ||action-promotions.com^
 ||action-marketing.com^
-
-! 🎯 Laat winkel en productmedia toe:
-@@||www.action.com^
-@@||m.action.com^
-@@||api.action.com^
-@@||media.action.com^
-@@||img.action.com^
-@@||static.action.com^
-@@||content.action.com^
