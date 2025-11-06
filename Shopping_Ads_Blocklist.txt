@@ -271,11 +271,9 @@
 ||ads.action.com^
 ||ad.action.com^
 ||analytics.action.com^
-||track.action.com^
 ||tracking.action.com^
 ||log.action.com^
 ||metrics.action.com^
-||promo.action.com^
 ||promotion.action.com^
 ||marketing.action.com^
 ||event.action.com^
